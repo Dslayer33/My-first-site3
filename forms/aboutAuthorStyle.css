@@ -1,0 +1,45 @@
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: cornsilk;
+}
+.avatar{
+    width: 400px;
+    height: 250px;
+    
+}
+.text{
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    
+}
+.square{
+    width: 100px;
+    height:  100px;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    box-shadow:5px 5px 20px 10px #006cff;
+    
+}
+.square2{
+     width: 100px;
+    height:  100px;
+    background-color: black;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    box-shadow:-5px 5px 20px 10px #006cff;
+}
+.square-text{
+     color: white;
+    text-align: center;
+    text-decoration: underline overline;
+    text-decoration-color: cyan;
+    padding-top: 25px;
+}

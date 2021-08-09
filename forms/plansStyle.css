@@ -1,0 +1,40 @@
+body{
+    background-color: cornsilk;
+}
+.title{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.plans{
+    border: 2px solid #111;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.square{
+    width: 100px;
+    height:  100px;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    box-shadow:5px 5px 20px 10px #006cff;
+    
+}
+.square2{
+     width: 100px;
+    height:  100px;
+    background-color: black;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    box-shadow:-5px 5px 20px 10px #006cff;
+}
+.square-text{
+     color: white;
+    text-align: center;
+    text-decoration: underline overline;
+    text-decoration-color: cyan;
+    padding-top: 25px;
+}
